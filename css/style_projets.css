@@ -1,0 +1,23 @@
+#projet1 {
+    background: linear-gradient(90deg, #807e7e 30%, #c2bfbf 70%);
+    color: #000000;
+    border: 5px solid #2c2c2c;
+    max-width: 1000px;
+    margin: 0 auto 70px;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 40px 20px rgba(0,0,0,0.12);
+    text-align: center;
+}
+
+#ciao,
+#sao {
+    border-radius: 20px;
+    border: 3px solid #000000;
+}
+
+#projet1:hover,
+#ciao:hover,
+#sao:hover {
+    transform: scale(1.05);
+}
